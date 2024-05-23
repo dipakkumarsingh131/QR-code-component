@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(172, 199, 209);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+
+}
+
+p {
+    text-align: center;
+    font-size: large;
+}
+
+h1 {
+    text-align: center;
+}
+.second {
+    margin: auto;
+    border-radius: 25px;
+    text-align: center;
+    width:400px;
+    height:650px;
+    background-color:rgb(255,255,255);
+
+}   
